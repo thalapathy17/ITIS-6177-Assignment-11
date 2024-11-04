@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  },
+  "name": "itis-6177-assignment-11",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrutis-uncc/ITIS-6177-Assignment-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrutis-uncc/ITIS-6177-Assignment-11/issues"
+  },
+  "homepage": "https://github.com/shrutis-uncc/ITIS-6177-Assignment-11#readme"
+}
